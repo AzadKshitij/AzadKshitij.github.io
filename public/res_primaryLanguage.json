@@ -1,0 +1,190 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Kshitij Sanodariya. I am currently perusing my engineering degree from Indian Institute of Technology Jodhpur. I have experienced of more than 3 years working with React JS, React Native and Backend Technologies like Node, Express, Sequelize, Postgres Database, frontend technologies like HTML, CSS, Tailwind CSS. Management tools like Trello. I'm a team player I worked with teams to Create project and App for client and for the institute. Also have good communication skills, conducted several sessions on Game Development at IIT Jodhpur, Head of Design and Creativity in Prometeo: Technical & Entrepreneurs Fest.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Circuit Maverick",
+      "startDate": "2021",
+      "description": "Educational Game Development for Basic Electronics. It is a game build with Unit Game Engine to teach students about basic electronics. It is a 2D game where students can play with their own circuit and see the output of the circuit. It is a game developed for the students of IIT Jodhpur.",
+      "images": [
+        "images/portfolio/circuit-maverick/1.jpeg",
+        "images/portfolio/circuit-maverick/2.png",
+        "images/portfolio/circuit-maverick/3.png",
+        "images/portfolio/circuit-maverick/4.png",
+        "images/portfolio/circuit-maverick/5.png",
+        "images/portfolio/circuit-maverick/6.png",
+        "images/portfolio/circuit-maverick/7.png"
+      ],
+      "url": "https://github.com/Gamedev-Society-IIT-Jodhpur/InteractiveCircuitGame",
+      "technologies": [
+        {
+          "class": "devicon-express-original",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "Postgres"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-unity-original",
+          "name": "Unity"
+        }
+      ]
+    },
+    {
+      "title": "HQImage",
+      "startDate": "2022",
+      "description": "Implementation of SRCNN(Super Resolution Convolutional Neural Network) with PyTorch. It is a web application created with FastAPI that allows users to upload images and save the high quality version ded image. ",
+      "images": [
+        "images/portfolio/hqimage/1.jpg",
+        "images/portfolio/hqimage/2.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-fastapi-plain",
+          "name": "FastAPI"
+        },
+        {
+          "class": "devicon-pytorch-original",
+          "name": "PyTorch"
+        }
+      ]
+    },
+    {
+      "title": "Flap The Bird",
+      "startDate": "2020",
+      "description": "A clone of the original game flappy bird made using Unity Game Engine. Game was published and had 10,000+ downloads with 3.5+ star rating",
+      "images": [
+        "images/portfolio/flap-the-bird/1.png",
+        "images/portfolio/flap-the-bird/2.jpeg",
+        "images/portfolio/flap-the-bird/3.png",
+        "images/portfolio/flap-the-bird/4.png",
+        "images/portfolio/flap-the-bird/5.png",
+        "images/portfolio/flap-the-bird/6.png"
+      ],
+      "url": "https://github.com/AzadKshitij/Flap-The-Bird",
+      "technologies": [
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-unity-original",
+          "name": "Unity"
+        }
+      ]
+    },
+    {
+      "title": "Electron Screen Recorder",
+      "startDate": "2020",
+      "description": "Electron Screen Recorder is a desktop application that allows users to record their screen and save it as a video. It is a desktop application developed using Electron Framework.",
+      "images": [
+        "images/portfolio/es-recorder/1.png",
+        "images/portfolio/es-recorder/2.png",
+        "images/portfolio/es-recorder/3.png"
+      ],
+      "url": "https://github.com/AzadKshitij/Electron_screen_recorder",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-electron-original",
+          "name": "Electron"
+        }
+      ]
+    },
+    {
+      "title": "Electron Calculator",
+      "startDate": "2020",
+      "description": "Electron Calculator is a desktop application that allows users to perform basic mathematical operations. It is a desktop application developed using Electron Framework.",
+      "images": [
+        "images/portfolio/e-calculator/1.png",
+        "images/portfolio/e-calculator/2.png",
+        "images/portfolio/e-calculator/3.png",
+        "images/portfolio/e-calculator/4.png",
+        "images/portfolio/e-calculator/5.png"
+      ],
+      "url": "https://github.com/AzadKshitij/Electron-Calculator",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-electron-original",
+          "name": "Electron"
+        }
+      ]
+    },
+    {
+      "title": "Projectile",
+      "startDate": "2021",
+      "description": "Projectile is a game developed using Godot Game Engine. It is a 2D game where players have move a ball from one rotating planet to another.",
+      "images": [
+        "images/portfolio/projectile/1.png",
+        "images/portfolio/projectile/2.png",
+        "images/portfolio/projectile/3.png",
+        "images/portfolio/projectile/4.png",
+        "images/portfolio/projectile/5.png",
+        "images/portfolio/projectile/6.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-godot-plain",
+          "name": "Godot"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "SpeEdLabs",
+      "title": "Summer Intern",
+      "years": "05.2022 - 07.2022",
+      "mainTech": ["Python", "Dash", "PyTorch", "MS SQL Server"],
+      "technologies": ["Python", "Dash", "PyTorch", "MS SQL Server"]
+    },
+    {
+      "company": "Astu",
+      "title": "App & Web Developer Intern",
+      "years": "10.2020 - 09.2021",
+      "mainTech": ["React Native"],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        ".NET Core",
+        "SignalR",
+        "Angular Material",
+        "AWS"
+      ]
+    }
+  ]
+}

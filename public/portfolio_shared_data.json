@@ -1,0 +1,129 @@
+{
+    "basic_info": {
+      "name": "Kshitij Sanodariya",
+      "titles": [ "ML Engineer", "Front-end Developer", "Data Engineer",  "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/AzadKshitij",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/kshitij-azad/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "twitter",
+          "url": "https://twitter.com/azad_kshitij",
+          "class": "fab fa-twitter"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/being_mad.py/",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.png"
+    },
+    "skills": {
+      "icons": [
+        
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "90"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain",
+          "level": "65"
+        },
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "65"
+        },
+        {
+          "name": "C",
+          "class": "devicon-c-plain",
+          "level": "65"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "NextJs",
+          "class": "devicon-nextjs-original",
+          "level": "75"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "75"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original",
+          "level": "75"
+        },
+        {
+          "name": "FastAPI",
+          "class": "devicon-fastapi-plain",
+          "level": "75"
+        },
+        {
+          "name": "Flask",
+          "class": "devicon-flask-original",
+          "level": "75"
+        },
+        {
+          "name": "TailwindCSS",
+          "class": "devicon-tailwindcss-plain",
+          "level": "75"
+        },
+        {
+          "name": "PostgresSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-original",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        },
+        {
+          "name": "Github",
+          "class": "devicon-github-original",
+          "level": "60"
+        }
+      ]
+    }
+  }
